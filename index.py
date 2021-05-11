@@ -67,11 +67,10 @@ def tuisong(err):
     api = "https://sc.ftqq.com/{0}.send".format(SCKEY)
     data = {"text": "易班打卡异常提醒", "desp": str(err)}
     req = requests.post(api, data=data)
-def tuisong2():
+def tuisong2()
     api = "https://sc.ftqq.com/{0}.send".format(SCKEY)
-    data = {"text": "易班打卡成功", "desp":"{0}打卡完成".format(date)}
+    data = {"text":"易班打卡成功","desp":"{0}打卡完成".format(date)}
     req = requests.post(api, data=data)
-
 
 
 # 未完善的改良
