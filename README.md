@@ -11,6 +11,8 @@ GDUF_autocheck
 - [x] 基于Github Actions定时每日早上8:00自动打卡，完全解放你的设备和服务器✔
 - [ ] 正在改1Secrets提交方法！
 
+为防止查水表，暂不提供任何教程和帮助，自行解决！！！
+
 ## 使用方法
 - Star并Fork此项。<br>
 [Github fork 别人的项目源作者更新后如何同步更新](https://blog.csdn.net/zhongzunfa/article/details/80344585)
@@ -26,10 +28,6 @@ GDUF_autocheck
 ①理论上USERS项的Value格式填写正确，可添加无限用户<br>
 ②如何获取[logintoken](如何获取logintoken.pdf) <br>
 ③如何获取[SCKEY](如何获取SCKEY.pdf)
-
-## 与我联系
-- 有任何问题可以提交[issues](https://github.com/feizao67/GDUF_autocheck/issues/new)  
-- QQ交流群：[550758147](https://qm.qq.com/cgi-bin/qm/qr?k=NM9kxBkkvWsNiKx-4y0IzzzpaaXbjGOx&jump_from=webapi)
 
 
 ## 许可
